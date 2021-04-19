@@ -1,0 +1,576 @@
+title,tb,author,branch,state,url
+【版本合并】cn_cb to cn_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13828
+【版本合并】cn_cb to cn_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13840
+【cn_1.91】排序界面，排序顺序可选择升幂或降幂,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477803,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13841
+【tw_dev】道具阶梯购买前端显示[策划反馈修改],https://www.teambition.com/task/5ff2f4fc7024dc004474d5c4,fanshuhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13846
+【cn_1.91】人偶掉落优化,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477788?code=teF1sUTDaVPSj2Loeq3TinEJQccwLetgdoNFv6Vl714,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13847
+【cn_191】日服出征羁绊需求开发,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477790,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13861
+【版本合并】cn_cb to cn_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13892
+【cn_1.91】前端开发-誓约后自动穿戴誓约皮肤,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477792,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13896
+【cn dev】同步日服sdk修改,,luhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13924
+"【cn_dev】日服需求,维护界面/uid","https://www.teambition.com/task/5fd867a2de45e800442fe05f",fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13927
+【版本合并】cn_cb to cn_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13928
+【cn_dev 1.91】抽卡结果画面加入SNS平台分享，由我方提供第分享功能的接口,https://www.teambition.com/task/5fd867b3d6c3f90044ef0c01,sunrui01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13930
+【cn_dev】修复上次merge导致的错误,,luhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13931
+【版本管理】Merge branch 'cn_cb' into cn_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13953
+【cn_1.91】过天相关,,malongtao,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13958
+【cn_191】羁绊界面点击人偶头像只显示人偶tips,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477799,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13959
+【cn_1.91】筛选界面，新增「确定」按钮,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477802,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13961
+【cn_dev】【日服需求】：1.充值界面增加2个按钮，显示两条法律内容 2.充值界面底部说明：充值获赠为钻石 3.修改折扣表现形式：改为【相当于xx日元】或者【500%大增量】的描述方式,https://www.teambition.com/task/5fd8673f93c91d004ad1fd58,fanshuhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13963
+【cn_1.91】【日服屏蔽字】,"https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477808",guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13965
+【版本管理】Merge branch 'cn_cb' into cn_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/13996
+【cn_dev】【自测优化】删除对应活动Boss奖励面板关于UGUIform的继承关系,,duanxiulin,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14019
+【cn_bug】日服相关专属修改bug,,fanshuhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14042
+【cn_dev】修复merge错误导致的打包失败,,luhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14062
+【版本管理】Merge branch 'cn_cb' into cn_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14068
+【cn_1.91】日服1.81 版本的翻译本地化,https://www.tapd.bilibili.co/30085404/prong/tasks/view/1130085404001485837,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14072
+【cn_1.91】添加日语判断,,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14073
+【cn_1.91】日服1.81 版本的翻译本地化-大地图+后宅,https://www.tapd.bilibili.co/30085404/prong/tasks/view/1130085404001485851,lichenxi02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14078
+【cn_1.9】C#脚本检查略过注释,https://www.teambition.com/task/5ffd1188af3700004443bc0b,songyi01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14083
+【jp_191】好友功能日服资源,,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14091
+【版本管理】Merge branch 'cn_cb' into cn_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14094
+【版本管理】Merge branch 'cn_cb' into cn_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14095
+【Jp】【ID1485830】主界面【本地化-1.81 版本的翻译本地化】-前端导入（UI部分）,https://www.tapd.bilibili.co/30085404/prong/tasks/view/1130085404001485830,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14109
+【cn_1.91】lua模板工具重构、扩展,https://www.teambition.com/task/600018c0f95a390045d07e73,malongtao,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14120
+【Jp】【ID1494144】黑海天柩【本地化-1.81 版本的翻译本地化】-前端导入（UI部分）,https://www.tapd.bilibili.co/30085404/prong/tasks/view/1130085404001494144,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14121
+【版本管理】打表上传,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14127
+【cn_1.91】修复某些prefab打开时报空的bug,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14130
+【Jp】【cn_1.91】日服1.81 版本的翻译本地化-大地图+后宅 .meta修正,,lichenxi02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14131
+【cn_1.91】上传 SLG 的日语资源,https://www.tapd.bilibili.co/30085404/prong/tasks/view/1130085404001485836,gaojiongjiong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14134
+分享界面UIButton组件替换,,sunrui01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14148
+【cn_1.91】修正测试代码,,malongtao,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14162
+【版本管理】打表上传,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14170
+【cn_1.91】客户端登录选服逻辑修改,https://www.teambition.com/task/5ffbea839112960044a1bbd3,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14192
+【Jp】战斗部分【本地化-1.81 版本的翻译本地化】-前端导入（UI部分）,https://www.tapd.bilibili.co/30085404/prong/tasks/view/1130085404001485833,wuyusheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14200
+【cn_bug】修复imagelang多语言报错导致prefab打不开,,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14210
+【版本管理】cncb to cndev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14211
+【版本管理】打表上传,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14223
+【cn_1.91】lua生成模板工具微调,,malongtao,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14236
+【cn_bug】【黑潮1.9】【热更资源检查脚本优化】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view?bug_id=1151574239001398206,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14304
+【版本管理】cn_cb to cn_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14306
+【cn_1.91】日服资源/剧情翻页,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001495209,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14314
+【版本管理】打表上传,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14331
+【cn_191】exportWizard导出工具 囊括大招criware文件,https://www.teambition.com/task/5fffe75aaca6b50044b8f11e,zhouyixue,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14343
+【cn_1.91】Lua UGUI Form 可控制自己是否关闭面板,,malongtao,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14357
+【cn_1.92】【ID1512599】【通用代币商店转Lua】,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001512599,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14365
+【cn_1.91】根据uguiform引用自动生成luainjection工具 100%,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14374
+【cn_合并冲突】解决版署信息的冲突,,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14376
+【cn_1.91】lua文件夹整理,,malongtao,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14388
+优化了人偶导出工具(根据策划需求),,duanxiulin,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14391
+【cn_bug】【ID1400204】【黑潮繁体1.90】【bug描述】DarkBoom BaseRequest:Post Non-fatal…,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001400204,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14397
+【cn_bug】【黑潮简体1.9】【bug描述】回收人偶与装备强化界面UI显示优化,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view?bug_id=1169221406001400862&from=letter,zhuwenjie01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14411
+【版本管理】修复cndev merge时冲突导致的编译报错,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14418
+【cn_bug】【黑潮简体1.90】【大地图编队侧边栏选择人偶快速上下滑动后，深海化人偶的渐隐会消失】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view?bug_id=1169221406001401277,zhouyixue,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14421
+【cn_bug】【ID1400206】【黑潮繁体1.90】【bug描述】DarkBoom BaseRequest:Post Non-fatal…,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001400206,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14427
+【cn_bug】【ID1400208】【黑潮繁体1.90】【bug描述】DarkBoom BaseRequest:Post Non-fatal…,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001400208,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14428
+【cn_bug】带 Debug 信息的正式包允许加密协议,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001400315,gaojiongjiong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14432
+【cn_bug】修复第一次热更新没有criware文件,,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14435
+【cn_1.91】客户端登录选服逻辑修改,https://www.teambition.com/task/5ffbea839112960044a1bbd3,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14439
+【cn_bug】协议error处理,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001400216,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14440
+提交Task&Behavior配置表相关检查工具,,luhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14441
+【cn_dev】【黑潮简体1.91】【bug描述】DarkBoom BaseRequest:Post Non-fatal Exception: WrappedException /Formation/setAtkFormation errorCallback is Null!,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001401801?jump_count=2,sunrui01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14444
+【cn_bug】活动分页中，指挥官特训解锁飘向问题,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001495870,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14448
+【cn_bug】暗蚀废墟软引导显示错误,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001401795,chenhuiling,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14452
+【cn_1.92】【ID1512599】【通用代币商店转Lua】(补充),https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001512599,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14454
+【cn_1.92】【ID1529314】【主界面-右下角增加红点】-前端开发,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001529314,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14455
+【【黑潮简体1.9】【邮件功能 道具显示和拖动问题 】】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001401778,fanshuhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14465
+【cn_1.92】lua战斗出入口结构修改,https://www.teambition.com/task/5fb48d0e7411d800446945cd,chenhuiling,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14473
+【cn_bug】【黑潮繁体1.9】【剧情对话中，人偶连上有奇怪线条】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view?bug_id=1151574239001390763,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14474
+【cn_1.92】测试包通过打包选项可以完全屏蔽热更,https://www.teambition.com/task/600fd48c8cdde10044a867ff,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14479
+【cn_1.92】jenkins出包时在VersionConfig中写入configCommit,https://www.teambition.com/task/5ffe8ecc9cecf90044240bbf,gaojiongjiong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14486
+【cn_bug】修复【人偶回收界面来回滑动列表时，频繁切换快速选择中的SR和SSR会导致随机几个人偶卡面资源消失】的bug; 修复【穿戴装备后面板属性未增加】】的bug,"https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001399537",niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14487
+【cn_192】修复lua报错,https://www.teambition.com/task/5fb48d0e7411d800446945cd,chenhuiling,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14488
+【cn_1.91】大地图缩略图港口显示修改,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001527332,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14489
+【cn_1.9】【利维坦深渊-购买次数功能优化】,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001527691,songyi01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14493
+【cn_1.9】【ID1477801】【前端开发-港口详情标题优化】,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477801,chencheng02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14495
+【cn_1.92】lua协程支持,https://www.tapd.bilibili.co/69221406/prong/stocn_1.92ries/view/1169221406001545034?url_cache_key=3a223a49c5778652858b977d2a422f6f,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14497
+【cn_dev】c#脚本检查白名单支持添加目录,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001527691,songyi01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14500
+【cn_1.92】多语言图片diff导入工具,https://www.teambition.com/task/600a3fa17e789a00441db267,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14504
+【cn_bug】推送页签添加打开时高亮闪烁,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001403664,wuyusheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14506
+【cn_1.92】修改boss模板,https://www.teambition.com/task/5fb48d0e7411d800446945cd,chenhuiling,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14507
+【cn_1.92】日服资源导入,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001485542,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14510
+【cn_bug】【ID1403607】【黑潮简体1.91】【主界面】排行榜；社交；邮件等icon摆放不平且图标阴影不统一,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001403607,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14518
+【cn_bug】春樱活动人偶大小异常,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view?bug_id=1169221406001402853,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14524
+【cn_bug】修复【穿戴装备后面板属性未增加】的bug,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001401782,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14527
+【cn_bug】修复阵列解析后属性未刷新的问题,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001399001,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14529
+【Jp】【ID1477797】 战斗界面新增目前掉落结算tips,,duanxiulin,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14531
+【cn_dev】修复日服SDK新账号无法登陆问题&BiliSDK增加支付失败提示,,luhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14535
+【cn_1.92】忽略 IFix 目录，以防打包时生成多余的 IFix 的 AB,https://www.teambition.com/task/6007ed0f8488f300442b7b70,gaojiongjiong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14543
+【cn_bug】修复埋点计时器误差 & 【cn_bug】修复重启游戏后内存泄露（只会有一次）,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001402389,wangcong02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14549
+【cn_bug】个人信息分享mask添加,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001401806,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14550
+【cn_2.0】网络errorcallback测试支持&打印log&json解析错误弹窗,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001544318,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14553
+【黑潮简体1.91】【主界面】快捷购买的阶梯价格说明中有繁体字,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001404177,fanshuhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14554
+【cn_bug】【ID1403666】【打开关闭深海实验界面，界面会闪烁】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001403666,chencheng02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14555
+【cn_bug】服务器列表由服务端下发,,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14558
+【cn_1.92】【斯诺普特派支持无限重抽】,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477779,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14559
+【cn_1.91】1.91 替换游戏icon,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001545215,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14560
+[简体1.91]【ID1527485】【资源-带菊花纹的立绘更新】,,sunguili,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14561
+【ID1400848】【黑潮简体1.9】【bp图标上有高达英文字样】,,sunguili,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14562
+[CN1.91]【ID1527485】 【资源-带菊花纹的立绘更新】,,sunguili,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14563
+【cn_191】线上热更需求，阵列解析增加白钻解锁未获得的人偶,,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14564
+【cn_1.9】hc-29451 提交燃灯照岁-春节大活动的chuguang战斗场景,,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14565
+【cn_1.9】提交春节4人偶4皮肤战斗技能配置,,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14566
+【cn_1.9】hc-28774 提交伊丽莎白私服、吕佐夫新春、竞技神新春、不知火新春 后宅spine资源,,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14567
+【cn_1.9】hc-28772 提交大斗犬、萨福克 后宅spine资源,,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14568
+【cn_1.9】hc-28772 提交光荣抽卡动画,,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14569
+【cn_1.9】ID1530204 【大活动-春节-燃灯照岁】-年兽技能配置,,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14570
+【cn_1.9】ID1512707 重新输出提交一批大招手绘动画（音效重制）,,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14571
+【ID1398983】 【黑潮简体1.9】【迷雾追踪】道具icon资源缺失,,zhuliqian,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14572
+【ID1401929】 【黑潮简体1.9】【小年会包 迷雾追踪快捷入口图标丢失】,,zhuliqian,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14573
+【ID1401893】 【黑潮简体1.9】【春樱活动资源白块】,,zhuliqian,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14574
+【ID1512941】TW—伊丽莎白女王投放需求-卡池配置,,zhuliqian,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14575
+【cn_bug】指挥官特训软引导第一步点击活动修改为点击新人,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001404768,chenhuiling,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14581
+【ID1512941】TW—伊丽莎白女王投放需求-活动页icon,,zhuliqian,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14587
+【cn1.9】【ID1404099】【黑潮简体1.9】【小年会包 人偶资源丢失】更新ID为 5036000;5036100;5047100 的人偶立绘资源，修改如下：,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view?bug_id=1169221406001404099,chenjianjun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14588
+【cn_1.92】 (月歌) 【ID1545239】【简体OB后活动功能&数值配置更新检查】提交人偶立绘相关资源 c9d7368928 5049001,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001545239,zhoucecheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14591
+【cn_1.92】 (ddz) 1495907 春节活动人偶投放提交人偶立绘相关资源 22bc00ece0 6010000;1028000,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001495907,zhoucecheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14594
+【cn_1.92】 (ddz) 1495907 春节活动人偶投放提交人偶立绘相关资源 7020e7fc4d 6010100;1028100;4039000;4039100;5013000;5013100,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001495907,zhoucecheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14597
+【ID1545239】【简体OB后活动功能&数值配置更新检查】更新ID为 2002001;4010001;5008001;6010002 的人偶立绘资源，修改如下：,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001545239,chenjianjun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14598
+【ID1545239】【简体OB后活动功能&数值配置更新检查】更新ID为 2002001;4010001;5008001;6010002 的人偶立绘资源，修改如下：,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001545239,chenjianjun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14600
+【ID1545239】【简体OB后活动功能&数值配置更新检查】更新ID为 2002001;4010001;5008001;6010002 的人偶立绘资源，修改如下：,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001545239,chenjianjun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14601
+【cn_bug】修复迷雾追踪活动内存泄漏,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001405057,wuyusheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14602
+【cn_1.91】【ID1545305】资源-带菊花纹的立绘更新——金刚战斗spine+翔鹤、夕立、金刚抽卡动画,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001545305,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14607
+hc-28955 赤城加贺卡池 - 加贺资源,,zhuliqian,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14609
+【cn_1.92】【工具一键检查——工程内是否有.mat材质丢失】,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001546656,zhouyixue,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14611
+【cn_bug】【黑潮简体1.9】【战略等级19级，海域开采-快速开采购买第12次时，次数没有归0，重新打开快速开采弹窗界面错乱】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001404846,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14626
+【cn_bug】【ID1405708】【黑潮繁体1.9】【大地图内没有任何红点，但主界面还是可以看到红点】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001405708,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14627
+【cn_1.91】ID1530204 【大活动-春节-燃灯照岁】-年兽UI头像资源,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001530204,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14636
+【cn_bug】【ID1405030】【黑潮简体1.9】【黑海天柩 每日任务 第二天 每日任务重置后 再次去商城购买一次道具  退出商城后 没有显示红点】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001405030,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14642
+【cn_bug】【ID1405674】【黑潮繁体春节】【商城倒计时，不会读到0，采购一期二期切换的时候，时间节点会卡住】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001405674,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14643
+【cn_bug】【ID1406211】【黑潮简体1.91】【回收商城与高级回收商城之间切换，刷新倒计时会先显示切换前的秒数再显示当前网络时间秒数】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001406211,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14644
+【cn_bug】修复 SLG 点击未占领地块，同时收起右侧编队时，会导致界面卡死的问题,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001378754,gaojiongjiong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14646
+【cn_192】GachaForm转Lua小坑：Lua层面支持UguiForm中支持OnCommonComponentHook更改,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001544085,wangcong02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14648
+【cn_1.92】优化获取包体头的方法,https://www.teambition.com/task/60054b7bb8330b004406f268,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14649
+【cn_1.90】装备强化材料tips优化：数量支持输入框；材料选择最大值逻辑优化【cn_bug】【选中强化组件后在点击自动选择，组件数量显示出错】,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001546841,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14651
+"【cn_bug】修复【玩家反映于更新后,人偶驻扎状态消失,疑似因此导致有重复的人偶,派遣时不断出现人偶已出战或整备中的提示,还请协助确认是否异常】的bug",https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001405401,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14655
+【cn_bug】更新配表工具后，Lua 显示带参数的字符串调整,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view?bug_id=1151574239001404944,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14659
+【cn_bug】黑潮简体1.91 味蕾革命Log对话内容显示不完整,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001406535,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14671
+【cn_Editor】删除道具icon检查限制,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001551932,chenhuiling,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14673
+【黑潮日服】新增深海化人偶自动锁定功能,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477791,wuyusheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14676
+【1.92】修复特殊情况下，Abloaderagent的mask = 0，停止加载的bug,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001399537?code=3ToSIT0NgDSFSgDLtlkuXMEHuU5tndjfadQZbY1EU8Q&state=TAPD_QY_WECHAT&jump_count=2,malongtao,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14679
+【cn_1.92】日服字体提交,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view?bug_id=1169221406001406215,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14680
+【ID1406271】 【黑潮简体1.91】【新人约定·春樱中，全部奖励没有给出详细奖励】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001406271?jump_count=2,malongtao,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14681
+【ID1551493】 日服美术资源查缺补漏：人偶/补漏相关UI,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001551493,sunguili,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14685
+【cn_bug】【ID1406672】【黑潮简体1.91】【快速开采界面今日剩余开采次数为0时显示为-1次】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001406672,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14686
+【cn_1.92】 (ddz) 【【黑潮繁体1.90】【大斗犬的左脚比例有问题，已与美术沟通过重新上传加载】】提交人偶立绘相关资源 7556d0552d 5013000;5013100,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001406362,zhoucecheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14691
+【ID1551495】 日服美术资源查缺补漏,,sunguili,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14693
+【1.92日服功能】【前端开发-联盟成员列表增加最近上线时间】【前端开发-联盟贡献做成道具同奖励一起发放（类似成就点）】,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477796,zhuwenjie01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14700
+【cn_bug】黑石商店购买传入参数修正,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001407032,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14707
+【cn_bug】【【黑潮简体1.91】【联盟页点击左下角消息按钮后页面文字重叠显示】】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001406503,zhuwenjie01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14710
+【cn_dev】【前端开发-新增「帐号绑定」功能】,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477784,songyi01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14711
+【cn_1.92】打表生成人偶资源表前刷新资源,,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14714
+【cn_1.91】【ID1527944】 亲潮军服战斗技能+后宅+大招Criware,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001527944,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14717
+【cn_1.9】【ID1551077】【大活动-燃灯照岁】春节主题大厅背景进包,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001551077,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14720
+【tw_bug】【黑潮繁体1.90】【港口长夜·始在进入剧情的时候会闪白一下】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001407278,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14728
+【cn_1.9】【ID1551077】【大活动-燃灯照岁】春节主题大厅背景进包(添加测试工具),https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001551077,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14732
+【cn_1.91】【ID1527969】 科罗拉多泳装战斗技能+后宅+大招Criware,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001527973,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14735
+【cn_bug】修复【装备界面点击tips后，点击空白处tips不关闭】的bug,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001406998,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14739
+【前端开发-成就新增一键领取】,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477798,chencheng02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14745
+【cn_1.92】 (yuege) 竞技神皮肤模糊【黑潮繁体1.9】【竞技神皮肤模糊】提交人偶立绘相关资源 2bf6bc7db9 2002001,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view?bug_id=1151574239001406873,zhoucecheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14751
+【cn_1.92】誓约界面标明该人偶是否有婚皮,https://www.tapd.bilibili.co/my_worktable?source_user=796461881&workspace_id=30085404&workitem_type=story&workitem_id=1130085404001495216#&filter_close=true,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14753
+修复【在设置阵型界面，更改人偶阵型后，点击取消，人偶的阵型依旧会更新】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view?bug_id=1151574239001404896,wangcong02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14754
+【cn_192】网络日志优化及网络调试bug修复,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001552520,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14761
+【cn_1.92】 (fiki) 【ID1545239】【简体OB后活动功能&数值配置更新检查】提交人偶立绘相关资源 47f7f3059b 1028000;1028100;6010100;1029100;1029000;5032101;1001001;5034101;3018001;6010000,,zhoucecheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14764
+【版本管理】打表上传,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14771
+【黑潮简体1.91】【yofun渠道在切换账号时，在检查更新界面会下载超时的提示】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001406375,sunrui01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14773
+【cn_bug】【ID1407280】【黑潮繁体1.90】【年货仓储中的看板娘尺寸不对】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001407280,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14774
+【【黑潮繁体1.9】【商城中春节人偶进阶箱详情中，能量增溶装置少了希腊字母】】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001408805,fanshuhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14782
+【cn_bug】【暗蚀废墟困难模式打捞次数跨天重置，重新上线才会正确显示】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001405434,songyi01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14788
+【cn_1.92】日服技能界面相关修改,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477795,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14790
+【版本管理】打表上传_客户端分支:cn_dev_配置分支:formal_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14791
+【cn_192】羁绊界面日服需求ui导入,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477799,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14792
+【cn_bug】春樱动效丢失,,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14793
+【cn_1.92】大活动-春节-燃灯照岁,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001495907?url_cache_key=3e8b7a7c2ecda781af236e28873c3b20&action_entry_type=story_tree_list,gaojiongjiong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14794
+换UI【前端开发-修改折扣表现形式：改为【相当于xx日元】或者【500%大增量】的描述方式】 【前端开发-充值界面增加底部说明】 【前端开发-充值界面增加2个按钮，显示两条法律内容】,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477780,fanshuhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14795
+【cn_bug】【利维坦深渊滑动下潜深度时页面会出现卡顿现象，点击其它按钮不会】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001406637,songyi01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14796
+【cn_bug】【编辑器】修复 特效预制体复杂度检测工具 在一定条件下会导致Unity崩溃的问题,,miaofengliang,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14797
+【版本管理】打表上传_客户端分支:cn_dev_配置分支:formal_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14798
+【cn_bug】修正字体,,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14799
+【cn_bug】【黑潮简体1.9】【低配设备，在战斗结束之后的弹窗界面，帧率特别低】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view?bug_id=1169221406001404770,zhouyixue,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14801
+【ID1409919】【黑潮简体1.91】【翔鹤卡池美术素材更新】,,zhuliqian,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14805
+漏提交资源,,fanshuhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14806
+【cn_bug】【暗蚀废墟困难模式打捞次数跨天重置，重新上线才会正确显示】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001405434,songyi01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14807
+【cn_1.91】【ID1545289】 亚马逊战斗spine、战斗技能配置、后宅spine,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001545289,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14809
+【cn_1.92】DialogForm 以及 global相关位置移动,,malongtao,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14811
+【cn_1.92】 (爱德华) 【ID1557998】提交人偶立绘相关资源 a68117e84f 4010001;6010002,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001557998,zhoucecheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14818
+【cn_1.91】【ID1545289】 亚马逊抽卡Criware动画,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001545289,zhonghongyu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14820
+【cn_1.92】总览详情添加属性显示,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001495229,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14821
+【cn_1.92】春节活动埋点增加,https://www.teambition.com/task/6006bbb8aa9b8f0044e3040e,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14823
+修复打开主界面lua报错,,zhouyixue,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14825
+【cn_1.92】增加合并丢失代码,,malongtao,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14826
+【cn_bug】新增剧情模式类型(软引导),https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001408921,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14834
+【cn_bug】【强引导缺少招募组和第一场战斗返回卡死】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001410394,chenhuiling,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14835
+【cn_dev】Firebase埋点方法修改,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001561169?from=wxnotification&jump_count=2,luhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14836
+【cn_bug】网络调试器优化,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001410403,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14838
+"【cn_1.92】前端开发-显示卡池内所有角色的头像,名字,出现概率；前端开发-快速选择改为与仓库里装备批量出售一样的功能",https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477776?url_cache_key=0&action_entry_type=story_tree_list,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14842
+【版本管理】打表上传_客户端分支:cn_dev_配置分支:formal_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14843
+【cn_bug】还原皮肤本因使用lua战斗模板不显示皮肤奖励的问题 && 【cn_bug】修复强引导第二场战斗返回引导层级错误的问题,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001411145,chenhuiling,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14844
+【jp_192】firebase埋点,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001552412,wangcong02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14845
+【cn_1.92】【培养队列初始开放2个，其余消耗钻石解锁】,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477787,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14848
+【cn_bug】选人界面释放修正,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001410430,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14849
+【版本管理】打表上传_客户端分支:cn_dev_配置分支:formal_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14851
+【cn_bug】【协议测试/server/getList 点击【返回错误码】弹出提示后，返回主界面，无法登录】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001410569,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14852
+【版本管理】打表上传_客户端分支:cn_dev_配置分支:formal_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14858
+【cn_bug?】修复大地图没有导航组件,,wangcong02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14859
+【前端开发-港口详情标题优化】,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477801,chencheng02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14867
+【cn_bug】uiresconfig在编辑器环境下根据打表选择语言生成对应路径,,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14868
+【cn_bug】【ID1410711】【黑潮简体1.91】【虚海死局】设置阵型后返回编队界面时，我方编队未保存,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001410711,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14871
+【cn_bug】【ID1408914】【黑潮简体1.9】【春节活动商店看板娘立绘坐标需要统一】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001408914,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14873
+【cn_1.92】购买培养列队添加,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477787,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14874
+【cn_bug】去除收藏界面背景白块,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001411194,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14877
+【cn_bug】【ID1408914】【黑潮简体1.9】【春节活动商店看板娘立绘坐标需要统一】(补充),https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001408914,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14879
+【ID1551495】 日服美术资源查缺补漏,,sunguili,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14881
+【ID1551495】 日服美术资源查缺补漏,,sunguili,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14882
+【版本管理】打表上传_客户端分支:cn_dev_配置分支:formal_dev,,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14883
+【cn_1.92】总览详情面板调整,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001495229,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14886
+【黑潮简体1.9】【未改变阵容和阵型时，点击设置编队界面确认按钮不生效】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001410713,sunrui01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14887
+【cn_bug】【未改变阵容和阵型时，点击设置编队界面确认按钮不生效】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001410713,songyi01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14895
+【Jp_1.92】【ID1410996】【演习界面文字超框】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001410996,chencheng02,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14896
+【cn_1.92】 装备快速选择反馈修改,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477793,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14897
+【cn_bug】协议：/mission/round，在返回异常的error code后，会导致界面卡死,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001410693,gaojiongjiong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14898
+【jp_bug】jsonmapper支持读json串时long转ulong,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001410984,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14899
+【cn_bug】【ID1407915】【黑潮繁体1.9】【巡航-编队选择界面左侧羁绊显示不全】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001407915,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14901
+【cn_1.92】 (Fiki) 【ID1553152】提交人偶立绘相关资源 Z1军装皮肤立绘资源开服不进包 55fa3c27c9 5049001,"https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001553152",zhoucecheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14905
+【cn_bug】【iPhone11机型下bili闪屏未铺满】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001410636,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14907
+【cn_bug】收藏界面音频配置读取判空逻辑补充,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001411012,zhangyi07,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14908
+【cn 1.92】同步繁体春节人偶资源 更新ID为 6010000;6010100;1028000;1028100;4039000;4039100;5013000;5013100 的人偶立绘资源，修改如下：,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001553152,qizhengxu,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14910
+【cn_bug】修复白名单问题,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001409935,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14911
+【cn_bug】【黑潮简体1.9】【指挥官升级推送中前往并领取邮件后回到大地图，点击推荐港口后地图中不显示港口信息】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001411142,yuexiaokun,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14912
+【日服bug】【【黑潮日服1.92】【出征编队界面  文字超框】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001410992,zhuwenjie01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14913
+【cn_bug】【jp_bug】首充，缺少视频资源的时候会卡死,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001411275,chenhuiling,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14915
+【JP1.92】【ID1477745】时间道具图标【ID1560506】【PV-日文版开场PV】,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001560506,sunguili,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14921
+【cn_bug】恭喜获得根据item表配置隐藏不展示的道具,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view?bug_id=1169221406001406162,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14925
+【cn_bug】修复【单个人偶抽卡分享按钮，偶发无法点击】的bug;【cn_1.92】【前端开发-快速选择改为与仓库里装备批量出售一样的功能】【cn_bug】【斯诺普特派重抽报错】,"https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001406640",niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14928
+【jp_1.92】总览属性描述修正,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001495229,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14929
+【cn_1.92】手动合并日服1.81的ios推送相关修改,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001546370,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14930
+【cn_1.92】工具-prefab一键替换文字滚动组件,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001575962,songyi01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14932
+【版本管理】meta文件提交,,guozicheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14933
+【jp_bug】【热更资源时文字描述和百分比重合】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001407985,fengkerong,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14935
+【黑潮日服1.92】【进入无光之海没有可操作项】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001411167?jump_count=2,sunrui01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14939
+【ID1410985】【黑潮日服1.92】【能源增容界面没有返回按钮 进去就出不来了】-资源缺失 先上传了tw的资源解决bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001410985&url_cache_key=036173ee1543d8b1bce1f681f72e10d2,duanxiulin,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14940
+【cn_1.92】 (Fiki) 【ID1553152】光荣深海化、伊丽莎白深海化、萨福克、大斗犬立绘资源开服不进包提交人偶立绘相关资源 168bde6a11 1028100;6010100;4039000;4039100;5013000;5013100,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001553152,zhoucecheng,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14942
+【cn_bug】皮肤本资源释放与网络协议代码修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001411717,fukang01,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14946
+还原被删除的IOS宏,,luhua,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14948
+【cn_bug】修复【中途岛招募，出结果后未弹出获得黑石铸币弹框】的bug,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001410704?jump_count=2,niuzhe,cn_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14954
+【jp_bug】修复【中途岛招募，出结果后未弹出获得黑石铸币弹框】的bug,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001410704?jump_count=2,niuzhe,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14955
+【版本管理】日服出包需求，icon支持Adaptive Icon,,guozicheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14959
+【jp_bug】修复lua战斗模板自动打捞结束返回了大厅的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001412050,chenhuiling,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14969
+【jp_bug】春樱活动红点刷新问题,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view?bug_id=1169221406001411233,guozicheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14975
+【jp_bug】阵列解析核心人偶界面列表刷新问题修复,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001412195,zhangyi07,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14984
+【jp_1.92】 (yuege) 1561121 【海上勘探活动复刻】-亲潮军服投放提交人偶立绘相关资源 76a7d8d1c7 5043101,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001561121?url_cache_key=0&action_entry_type=story_tree_list,zhoucecheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14988
+【jp_bug】春樱部分文字字体不对,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view?bug_id=1169221406001412379,guozicheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14995
+【jp_bug】【ID1410988】【成就界面排版超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001410988,chencheng02,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14996
+【jp_1.92】热更打包过程中，遇到ifix的patch生成失败的时候，报错并中断热更流程,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001545362,gaojiongjiong,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14997
+【jp_bug】【点击暗蚀废墟中打捞与自动打捞按钮无效，也没有返回按钮】【利维坦深渊 大地图红点的位置不对】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001411172,songyi01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/14998
+【日服bug】【【黑潮日服1.92】【联盟商店后续的文字么有显示出来】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001411015,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15004
+【jp_1.9】【ID1411253】修复深海萨福克40391战斗spine资源眼球异常,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001411253,zhonghongyu,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15007
+【jp_1.92】无限抽确认后自动关闭,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001477737,niuzhe,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15009
+【jp_bug】好友界面prefab展示调整,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001412360,zhangyi07,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15010
+【jp_bug】【【黑潮日服1.92】【培养队列达上限后的提示不对】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001411959,fanshuhua,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15012
+【jp_bug】阵列解析入口任务刷新机制修正为全量刷新,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001412472,zhangyi07,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15016
+【jp_dev】修复【船坞通过menu菜单跳转招募界面再跳转至船坞界面，非深海化ur卡面显示错误】的bug,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001409048,niuzhe,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15021
+【jp_dev】日服安卓sdk用户中心无法登出问题处理,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001412609&from=letter,luhua,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15022
+【ID1413737】【黑潮日服1.92】【飓风守卫打完一场战斗后没有客户端没有刷新战斗完数据显示】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001413737&url_cache_key=036173ee1543d8b1bce1f681f72e10d2,duanxiulin,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15028
+【jp_bug】【【黑潮简体1.91】【bug描述】DarkBoom BaseRequest:Post Non-fatal Exception:…,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001400210(cherry picked from commit c31eb2d50a854fb63e17ce1f03c40dd84493479f),zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15050
+【jp_1.92】自定义 AB 和热更目录,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001552223,gaojiongjiong,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15054
+【jp_bug】修复【关卡首次掉落的人偶 没有播放spine动画】的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001414033,niuzhe,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15055
+【ID1549961】【翻译-日服翻译工作总单】日服资源第一批UI替换,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001549961,sunguili,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15062
+【jp_1.92】清除 StreamingAssets 里没用到的 AB,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001552232,gaojiongjiong,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15072
+【jp_1.92】 (Fiki) 【ID1414365】提交人偶立绘相关资源 1fed5fe715 6010002 简体版本同时删除伊丽莎白女王私服资源,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view?bug_id=1169221406001414365,zhoucecheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15077
+【jp_bug】【首充还在时充值档位上的首充描述超框】【商会的礼包供给界面的礼包上的描述超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001410998,fanshuhua,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15079
+【jp_1.92】 (yuege) 1591499 【大活动】黑海天柩预埋-人偶资源和正式数值提交人偶立绘相关资源 4cf81b0a41 1020000;1020100;3035000;3035100;4001000;4001100;4008000;4008100,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001591499?url_cache_key=0&action_entry_type=story_tree_list,zhoucecheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15083
+【jp_bug】【游客账号绑定账号后? 指挥官界面的红点不会消失? 需要重新切换改界面 才会消失】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001414047,songyi01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15086
+【jp_bug】【ID1410986】【黑潮日服1.92】【主界面活动按钮文字超框】+【ID1410982】【黑潮日服1.92】【收藏入口文字超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001410986,yuexiaokun,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15112
+【jp_bug】【ID1411013】【黑潮日服1.92】【后宅界面文字超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001411013,yuexiaokun,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15113
+【jp_bug】【ID1413384】【黑潮日服1.92】【后宅商店 文字超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001413384,yuexiaokun,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15114
+【jp_bug】修复【舰装改造装甲区实际增加耐久属性与预览有1点误差】的bug,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001411517,niuzhe,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15120
+【jp_bug】修复【任务描述文字没有显示全】的bug；修复【装备强化选择达到上限提示错误】的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001414294,niuzhe,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15121
+【版本管理】删除jp旧人偶资源,,guozicheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15124
+【Jp1.92】提交jp文件夹,,sunguili,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15125
+【jp_1.92】 (沐灵) 人偶资源上传提交人偶立绘相关资源 4ad4406eb5 1002100;1003100;5032000;5032100;5034100;5047100;1015100;4003100,,zhoucecheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15141
+【JP_1.92】人偶资源上传,,qianyiyun,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15142
+【JP192】商会推荐资源上传,,sunguili,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15159
+【jp_bug】家具升级界面打开防双击,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001414291,fukang01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15165
+【cn_bug】【ID1415614】【黑潮简体1.91】【bug描述】主界面快速双击个人信息按钮，进入个人信息界面后会卡死（偶先）,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001415614,yuexiaokun,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15168
+【jp_1.92】备份热更的 Manifest,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001552227,gaojiongjiong,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15177
+【jp_bug】【黑潮繁体1.90】【GM指令发新增人偶布吕歇尔，齐柏林伯爵，欧根亲王深海化后没有深海化的头像】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001416489,chenhuiling,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15192
+【版本管理】jp_cb同步jp_dev,,guozicheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15194
+【jp_dev】【黑潮日服1。92】【指挥管特训完成后对应奖励领取按钮没有文字提示】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001408018&from=worktable_title,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15199
+【jp_dev】【IFix】【聊天-增加等级开放限制（15级）-前端开发】,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001595191,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15203
+"Revert ""Merge branch 'cherry-pick-9efb966f' into 'jp_dev'""",,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15204
+【jp_dev】【IFix】【聊天-增加等级开放限制（15级）-前端开发】,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001595191,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15205
+【jp_1.92】安卓打包obb命名代码修正,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001621809,fukang01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15208
+【jp_bug】【ID1410979】【黑潮日服1.92】【招募入口文字缺失】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001410979,yuexiaokun,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15213
+【jp_bug】【ID1416658】【玩家反映航线破袭在战斗时间结束后，不会自动结束，而是停在战斗的画面，已提供操作影片连结】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001416658,chencheng02,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15216
+【jp_bug】修复设置界面文本异常,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001417128,wuyusheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15217
+【jp_bug】【黑潮日服1.92】【战斗结束结算页面人偶名字滚动超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001417087,miaofengliang,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15220
+【jp_bug】【ID1417069】【大地图首通奖励钻石，文字和图标重叠】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001417069,chencheng02,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15223
+【jp_bug】小米花屏解决方案(增加透明底图),https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001417239See merge request darkboom/client!15222,fengkerong,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15226
+【jp_bug】阵列解析‘解析’文本不显示,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001416885,fengkerong,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15232
+【jp_bug】日服推送礼包价格过长超框,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001416747,fengkerong,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15239
+日服ios增加新权限等,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001621259,luhua,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15243
+【jp_bug】【ID1417415】【DarkBoom CharacterInfoUtility:GetCharacterPropertiesByHarbour】】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001417415,chencheng02,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15248
+【ID1622499】日服cb包人偶资源进包:删除1txt，加入缺失的抽卡动画：黄泉，约克城，大和,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001622499,sunguili,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15250
+【jp_dev】【【黑潮日服1.92】【联盟boss名字超框与血量重叠】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001417284,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15254
+【版本管理】打表提交,,guozicheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15263
+【ID1622499】 日服cb包人偶资源进包：1016000;5040000 的人偶立绘资源,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001622499,sunguili,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15270
+【jp_bug】设置/推送界面文本框调整,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418028,wuyusheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15271
+图片导入工具快捷操作bug修复,,guozicheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15274
+【jp_dev】【【黑潮日服1.92】【2行的文字合并成1行】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418057,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15294
+【jp_192】日服购买界面描述首行不缩进,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418020,chenhuiling,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15297
+【jp_bug】日服图鉴名字显示不全,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418024,chenhuiling,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15298
+【jp_bug】日服图鉴文字显示不全,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418020,chenhuiling,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15299
+【jp_bug】【无光之海港口描述文本UI重叠】【暗蚀废墟港口描述文本UI重叠】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418139,songyi01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15301
+【jp_bug】【登入游戏的载入界面下方文字与数字重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418182,fengkerong,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15303
+【jp_bug】活动时间提示修正,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view?bug_id=1151574239001418061,fukang01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15318
+【jp_dev】修复溶液增溶界面文字超框问题,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001417824&url_cache_key=036173ee1543d8b1bce1f681f72e10d2,duanxiulin,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15320
+【jp_bug】【ID1418256】【港口描述和其他文字重叠 】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418256,chencheng02,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15323
+【jp_192】日服购买界面描述首行不缩进修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418020,chenhuiling,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15325
+【jp_192】礼包折扣描述方式调整,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001619982,chenhuiling,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15329
+【jp_1.92】【战斗中boss名超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001417359,miaofengliang,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15334
+【jp_bug】修复数据类型错误导致战斗卡死的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419069,wuyusheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15340
+【jp_bug】【ID1419082】【排行榜 文字和按钮重叠】】,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15343,chencheng02,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15343
+【jp_bug】【黑潮日服1.92】【设置界面账号管理文字重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418993,songyi01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15345/diffs
+【jp_1.92】【ID1594884】能源增容-UI调整+ 快速购买调整,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001594884,duanxiulin,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15346
+【jp_192】购买界面资源消耗显示优化,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001595088,chenhuiling,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15347
+【jp_1.92】船坞功能-红点逻辑优化,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001595081,niuzhe,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15350
+【jp_dev】【【黑潮日服1.92】【聊天的通知频道 无法发言的提示文字没有显示全】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418987,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15353
+【jp_bug】修复【去掉角色台词前头的这个相当于两个字的空白】【文本需要替换】【新手引导招募字体超框 】的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418012,niuzhe,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15364
+【jp_dev】【【黑潮日服】【联盟狩猎任务boss介绍显示不全】】，【【黑潮日服1.92】【联盟BOSS 文字超框】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419095,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15365
+【jp_1.92】解决 OpenCutToForm 重复打开卡死的问题,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001601937,gaojiongjiong,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15368
+【jp_dev192】【黑潮日服1.92】【自动打捞按钮文本超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419153,sunrui01?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15369
+【jp_2.0】季卡代码完善修正，图片资源位置调整，放双击添加等,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001546312,fukang01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15375
+【jp_bug】menuload图片提交,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001419125,guozicheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15376
+新跑马灯，修复文字会闪现,,wangcong02,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15378
+"【jp_dev】【【黑潮日服1.92】【联盟任务超框】】,【【黑潮日服】【联盟任务，任务名超框】】",https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419029,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15379
+【jp_bug】【【黑潮日服1.92】【蜃海奇遇无法出击】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419128,fukang01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15381
+【jp_bug】取名界面超框修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418982,fukang01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15382
+【jp_dev】【【黑潮日服1.92】【加入联盟界面 联盟名字过大】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419015,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15384
+【jp_bug】皮肤本文字超框修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419123,fukang01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15387
+【jp_dev】【【黑潮日服1.92】【出战前任务选择 出击限制的提示文字超框】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418408,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15391
+【jp_192】商店时间戳修改为时间显示,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001622489,chenhuiling,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15395
+【jp_bug】【黑潮日服1.92】【暗示废墟 标签文字超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419276,songyi01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15397
+【jp_dev】【【黑潮日服1.92】【联盟成员管理文本显示不全】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419438,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15399
+【jp_dev】【邮箱-邮件上线和提示功能-前端开发】,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001595205,fanshuhua,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15402
+【jp_192】【仓库界面文字缺失】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419089,lichenxi02,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15405
+【jp_1.92】修正 OpenUIFormDupEvent 未取消订阅的问题,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001601937,gaojiongjiong,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15407
+【jp_bug】修复【船坞内文字没有显示完全】【船坞内 人偶名字滚动时候 显示的名字不对】的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419246,niuzhe,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15409
+【jp_bug】【人偶技能名超框】 && 【商会黑市物品名称超框】 && 【jp_bug】【收藏 人偶的名字显示不全】 && 【jp_bug]【商城文字超框 背景色快大小和文字不匹配】&&【jp_bug】【很多道具道具 描述没有显示完全】&&【jp_bug】【没完整显示，下面被截了一点】&&【jp_bug】【很多道具道具 描述没有显示完全】&&【jp_bug】【商会的礼包供给界面的礼包上的描,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420054,chenhuiling,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15413
+"【jp_dev】【【黑潮日服1.92】【招募 文本没有显示全】】,【【黑潮日服1.92】【羁绊名称超框】】",https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420029,zhuwenjie01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15416
+【jp_2.0】【工具-动态立绘支持alpha功能】,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001511148,zhouyixue,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15408
+【jp_191】经验数值滚动增长同步到日服,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001594914,wuyusheng,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15418
+【jp】up卡池功能签字对应修改,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001546306,fukang01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15420
+【jp_192】【利维坦深渊-增加自动战斗-前端开发】,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001594824,songyi01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15422
+[jp_dev] 部分LogError 问题,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001417419,lichenxi02,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15423/diffs
+【jp_dev】双端埋点来源区分&带参埋点处理&新隐私协议界面,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001594538,luhua,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15426
+【jp_bug】好友界面文字超框修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420021,fukang01?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15428
+【jp_dev】【黑潮日服1.92】【无光之海 关卡描述超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419143?jump_count=2,sunrui01?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15435
+【jp_bug】好友登录时间文字显示不全修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420020,fukang01?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15437
+【jp_dev】【【黑潮日服1.92】【反攻界面 标签文字超框】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419285,zhuwenjie01?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15440
+【jp_bug】修复【船坞滚轮与编队按钮重叠】的bug,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001414767,niuzhe,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15444/diffs
+【jp_bug】好友文字超框修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420017,fukang01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15445/commits
+【ID1420027】【黑潮日服1.92】【能源增容 文本重叠】,https://www.tapd.bilibili.co/my_worktable?source_user=1029304187&workspace_id=30085404&workitem_type=bug&workitem_id=1130085404001420027#&filter_close=true,duanxiulin,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15448
+【ID1420024】 【黑潮日服1.92】【去掉说明文前头的这个相当于两个字的空白】,https://www.tapd.bilibili.co/my_worktable?source_user=1029304187&workspace_id=30085404&workitem_type=bug&workitem_id=1130085404001420024#&filter_close=true,duanxiulin,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15450
+【版本管理】打表上传_客户端分支:jp_dev_配置分支:jp_cb_192,,niuzhe,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15464
+【jp_bug_firebase】修复通用帮助firebase报错,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001417404,chenhuiling,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15455
+【tw_bug】【阵列解析有可领取奖励时首次登陆不显示红点】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001419591,fengkerong,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15459
+【jp_bug】皮肤本默认item关闭,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420195,fukang01,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15465
+【jp_bug】修复【人偶赤城 技能描述没有显示完全】【船坞内 人偶名字滚动时候 显示的名字不对】的bug ，无限抽重抽按钮文本修改,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420586,niuzhe?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15468
+【cn_bug】日服供给箱文字超框,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419086,chenhuiling?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15470
+【jp_bug】【服务器名显示不全】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420581,fengkerong?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15471
+【jp_dev】【黑潮日服1.92.1.1】【人偶界面分享按钮没有翻译】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420815,sunrui01?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15476
+【jp_bug】【ID1420342】【黑潮日服1.92.1.1】【战斗中人偶死亡文本显示不完整】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420342,miaofengliang,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15479
+【tw_bug】未登录游戏的右上角信息图标，是扁的,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001419476,fengkerong?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15482
+【jp_bug】【利维坦深渊】等级达到6级解锁利维坦，点击前往后卡死,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420799,songyi01?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15482
+【jp_bug】黑市供给箱文字超框,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419086,chenhuiling?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15486/diffs
+【jp_dev】【【黑潮日服1.92】【联盟BOSS文字超框 重叠】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420009,zhuwenjie01?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15487
+【jp_bug】日文翻译UI适配,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420692,fengkerong?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15490
+【jp_dev】【【黑潮日服1.92】【联盟成员管理 文本没完整显示】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420014,zhuwenjie01?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15498
+【jp_bug】商会黑市，缺少钻石和bp商标,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001421125,chenhuiling?,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15501
+【jp_1.92】 (沐灵) 日服人偶资源进包：6023000，6023100，1016100，5040100提交人偶立绘相关资源 1c6892c681 6023000;6023100;1016100;5040100,,sunguili,jp_dev,merged,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15504
+【jp_bug】修复联盟boss战斗结算文本超框,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420009,wuyusheng?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15507
+【jp_bug】日服购买界面文本去空格,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418040,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15509
+【jp_bug】【【ID1419437】【领取成就奖励文本显示不全】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419437,chencheng02?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15510
+【jp_dev】【【黑潮日服1.92】【联盟 文本没完整显示】】，【【黑潮日服1.92】【联盟任务 文本为中文 请确认是否遗留翻译】】，【【黑潮日服1.92】【联盟任务超框】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420013,zhuwenjie01?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15512
+【jp_bug】进度下方的说明文字重叠,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001421640,fengkerong?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15524/diffs
+[jp_bug]【黑潮日服1.92】【仓库内道具的说明和描述 删除最前面的空格】【黑潮日服1.92.1.1】【未解锁的港口，锁的icon与港口上方显示的英文重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001421284,lichenxi02?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15525
+【jp_dev】【黑潮日服1.92.1.1】【无光之海未解锁时，锁的icon和字体显示重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001421583,sunrui01?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15529/diffs
+【jp_bug】修复结算界面人偶名称显示错误,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001421233,wuyusheng?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15531/diffs
+【ID1622500】日服cb包UI翻译资源更新第1批：切图字体更新,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001622500,sunguili?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15532
+[jp_bug]Update WareHouseInfo.cs,15525补提交,lichenxi02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15535/diffs
+【jp_bug】修复【深海实验】深海化更换人偶按钮重叠超框】的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001421273,niuzhe,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15538
+【jp_bug】【ID1420982】【港口明细文字重叠】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420982,chencheng02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15540/diffs
+【jp_bug】【【黑潮日服】【补给特典里面的详细信息页面文字重叠】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418178,fanshuhua,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15543/diffs
+[jp_bug]ifix bug 直接修改预制 代码Ifix支持 alignment 需确认,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001421390,lichenxi02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15545
+【jp_dev】【【黑潮日服1.92.1.1】【深渊起源＞深渊实验＞确认详细内容，文本显示不全】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001421264,zhuwenjie01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15551
+[jp192]【ID1622500】日服cb包UI翻译资源更新第2批：新增功能标题切图,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001622500,sunguili,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15553
+【jp_bug】尝试修复战斗结束ifix报错,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422805,wuyusheng,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15554/diffs
+【jp_bug】UR相关UI不及时更新bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422480,fengkerong,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15557
+【jp_bug】【暗蚀废墟】软引导台词未显示完全 && 【jp_bug】【很多道具道具 描述没有显示完全】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419024,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15564
+【jp_dev】【【黑潮日服1.92】【暗蚀废墟】编队界面中 出击限制文本上下过近】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422843,zhuwenjie01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15567
+【ID1422794】 【jp_1.92】自动打捞里的详情文本重叠,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001422794,duanxiulin,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15576
+【JP192】【ID1659668】【黑潮日服】菊花纹相关人偶大招动画关闭：翔鹤，金刚，白露，夕立,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001659668,sunguili,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15577
+【jp_bug】【ID1422893】【首次充值特典“前往充值”按钮文本重叠】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422893,chencheng02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15579
+【jp_bug】热更进度和描述文字重叠,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001423032,fengkerong,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15580
+【jp_bug】【ID1423130】【黑潮繁体1.90.1】【黑海天柩 中的编队选择界面中，处于驻扎或巡航中状态下的人偶会排在后面】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001423130,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15588
+【jp_bug】【ID1423068】【黑潮繁体1.9】【黑海编队】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001423068,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15589
+【jp_bug】【ID1422817】【黑潮日服1.92.1.1】【巡航界面说明窗文字显示超框】+【ID1423038】【巡航界面刷新倒计时和按钮重叠】+【ID1419108】【巡航界面 文字和按钮重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422817,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15591
+【jp_dev】【ID1422737】【黑潮日服1.92.1.1】【巡航界面中，取消巡航的按钮文字超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422737,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15592
+【jp_bug】【ID1422251】【黑潮日服1.92】【大地图推荐港口 文字重叠】+【ID1421282】【推荐港口名称和等级信息显示重叠】+【ID1419939】【大地图 推荐港口文本超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422251,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15593
+【jp_bug】【ID1422226】【黑潮日服1.92.1.1】【海域开采界面中，战略等级2-4的暗蚀废墟解锁条件显示过长与道具icon重叠】+【ID1419131】【开采界面的说明 文字没有显示完全 】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422226,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15594
+【jp_bug】【ID1422217】【黑潮日服1.92.1.1】【触发反攻的港口，反攻信息窗文字显示超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422217,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15595
+"【jp_bug】【ID1421153】【黑潮日服1.92】【字体大小和周边字体不统一】+【ID1418162】【文字显示不全“ドック”】 +【ID1418017】【文本与UI重叠】+【ID1418015】【文本没完全显示】+【ID1410979】【招募入口文字缺失】+【ID1422890】 【运营反馈_主界面首充入口文本超框,與角色重疊沒法看清】",https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001421153https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418162https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418017https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418015https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001410979https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422890,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15596
+【jp_bug】【ID1420989】【黑潮日服1.92.1.1】【装备制造文本重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420989,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15597
+【jp_bug】【ID1420807】【黑潮日服1.92】【演习商店 文字没有显示全】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420807,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15598
+【jp_bug】【ID1420584】【黑潮日服1.92.1.1】【味蕾革命“剧情观看”按钮文本与图标重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420584,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15599
+【jp_bug】【ID1420348】【黑潮日服1.92.1.1】【能源增溶的说明文背後藏著中文】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420348,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15600
+【jp_bug】【ID1418194】【黑潮日服】【去掉角色台词前头的这个相当于两个字的空白】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001418194,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15601
+【jp_bug】【ID1417197】【黑潮日服1.92】【家具商城“黑风组合壁柜”物品名字与物品重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001417197,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15602
+【jp_dev】【【黑潮日服】【弱网情况下进入指挥管特训界面会有一瞬间显示中文】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001423050,zhuwenjie01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15616
+【jp_bug】【黑潮日服1.92.1.2】【用户中心入口没有按钮文本】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422792,songyi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15624
+【jp_bug】日服字体修改,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422895,guozicheng,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15628
+【jp_bug】修复【小米手机（MIX3，MI10）物品名称无法显示】的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422220,niuzhe,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15630
+【JP_BUG】【阵列解析】解析界面中UR卡的立绘缺失,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001423441,fengkerong?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15635/diffs
+【jp_bug】【ID1423434】【黑潮日服1.92】【味蕾革命 文本未翻译】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001423434,yuexiaokun?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15644/diffs
+[jp_bug]【黑潮日服1.92】【仓库】筛选后多出道具问题,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422243,lichenxi02?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15646
+【jp_dev】【【黑潮日服1.92】【战前选择人偶的界面 名字滚动异常 并不是循环滚动的】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001423469,zhuwenjie01?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15648
+【jp_bug】【【黑潮简体2.0】【魔法少女皮肤本】副本页签缺少立绘】皮肤本加载图片调用函数修改,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001423704,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15652
+【jp_bug】【ID1423576】【黑潮日服CB】【回收商店高级-两个素体都不能兑换，点击兑换 没有反应】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001423576,yuexiaokun?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15656
+【jp_bug】【利维坦深渊】大地图上利维坦深渊红点错位 【暗蚀废墟】打开暗蚀废墟界面左下角的“剩余压制次数”预加载闪过，完全打开界面后无改文本显示,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422244,songyi01?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15659
+【ID1424019】【黑潮日服1.92】【皮肤本 3.19热更后 界面的资源存在问题】,@Nazo(qianyiyun)少单子,qianyiyun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15663/diffs
+【jp-1.92】调整齐柏林技能 z计划启动技能数值,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001424104,wangziqi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15664
+【jp_bug】【ID1424228】【黑潮日服1.92】【点击主界面出征按钮，会一直卡在loading】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001424228,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15665/diffs
+【Jp_1.92】【利维坦深渊】持有双倍道具的情况下通关后获得道具界面无“buff↑”图标,https://www.tapd.bilibili.co/my_worktable?source_user=1029304187&workspace_id=30085404&workitem_type=bug&workitem_id=1130085404001423467#&filter_close=true,duanxiulin,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15669
+【jp_bug】【暗蚀废墟】困难本打捞三次后，左下角文本未更新,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001423413,songyi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15671
+【jp_bug】修复日服结算界面人偶信息不全/指挥官名字错误的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422805,wuyusheng,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15675
+【jp_dev】隐私协议文本显示问题修改,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422888,luhua,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15677
+【jp_dev】【【黑潮日服】【反攻信息超框】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001424384,zhuwenjie01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15681
+【jp_bug】更新时文本需要改为日语正常显示的字体,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001424683,fengkerong,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15683
+【jp_1.92】 (沐灵) 修正50150白露的动态立绘提交人偶立绘相关资源 115ed1a65d 5015000,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001527485,sunguili,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15685/diffs
+【jp_bug】【黑潮日服1.92】【后宅】家具详情界面中，文本超框 && 【jp_bug】进战斗协议格式不正确,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001423490,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15687
+【ID1424692】 【黑潮日服】【运营反馈_味蕾革命红框里的UI文本「戦」现在是汉语字体，需要改为日语正常显示的字体】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001424692,sunguili,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15694
+【jp_bug】运营反馈_大和解锁按钮文本“解锁”改为“開放”,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001424214,fengkerong,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15693
+【jp_bug】资源检查工具及重复资源删除,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001695298,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15698
+【ID1424123】【暗蚀废墟、无光之海】暗蚀废墟的自动打捞出现了适用于材料本的双倍道具,https://www.tapd.bilibili.co/my_worktable?source_user=1029304187&workspace_id=30085404&workitem_type=bug&workitem_id=1130085404001424123#&filter_close=true,duanxiulin,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15699
+【jp_bug】【黑潮日服1.92】【利维坦深渊 战前编队界面 文字没有翻译】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001421158,songyi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15706/diffs
+【jp_bug】【【黑潮日服】【新手教程进入第一个港口后点击出击后卡死】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001425461,zhuwenjie01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15709
+【ID1424676】黑潮日服】【运营反馈_主页面＞新人＞约定·春樱，红框部分为汉字，需修改为日文】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001424676,lijie05,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15710
+【jp_bug】【检查发送协议里未转成long的id字段】招募 检查,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001594919,zhouyixue,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15712
+【jp_bug】个人信息超框修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001425285,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15739
+【jp_dev】【【黑潮繁体1.9】【联盟】红点层级在menu界面之上】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001425363,zhuwenjie01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15742
+【jp_bug】修复【新手引导看到的任务领取处，物品资源缺失】的bug,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001424092http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15749,niuzhe,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15756
+【jp_bug】【利维坦深渊】大地图上利维坦深渊红点错位,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422244,songyi,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15767
+【jp_bug】【黑潮日服】【标点符号问题】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001426012,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15771
+【jp_bug】【创角 选择男女的界面】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001426020,fengkerong,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15781
+【jp_bug】家具升级文本覆盖修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001425202,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15784
+【jp_bug】【ID1419131】【黑潮日服1.92】【开采界面的说明 文字没有显示完全…,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419131,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15789
+【jp_bug】【ID1419131】【黑潮日服1.92】【开采界面的说明 文字没有显示完全…,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001419131,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15790
+【jp_bug】【ID1425202】【黑潮日服1.92】【后宅】升级家具界面文本遮盖,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001425202,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15791
+【jp_bug】【ID1425218】【黑潮日服1.92】【后宅】制作装备界面的软引导层级错误,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001425218,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15792
+图片检查editor工具修正,https://www.tapd.bilibili.co/30085404/prong/stories/view/1130085404001695298,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15799
+【jp_bug】修复【任务界面翻译问题】的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001426019,niuzhe,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15806
+【jp_bug】阵列解析解析按钮2960x1440分辨率下文本显示不全,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001427303,fengkerong,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15821
+【jp_bug】修复【装备强化到30级装备强化界面未翻译】的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001427133,niuzhe,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15831
+【jp1.92】舰娘资源检查-角色切图-重新上传错误的资源（彭萨科拉、埃塞克斯深海）/动态立绘-上传缺少的资源（马汉深海、科罗拉多深海、中途岛深海）,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001698613,wangziqi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15834
+【jp_dev】【ID1427158】【成就>一键领取按钮在成就奖励有钻石未领取时显示有奖励领取但无法正常领取】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001427158,chencheng02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15836
+【jp_bug】修正标点符号问题，修复商会礼包文字出走问题,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001427817,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15845
+【jp_bug】【ID1424228】【黑潮日服1.92】【点击主界面出征按钮，会一直卡在loading】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001424228,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15847
+【ID1420022】【黑潮日服1.92】【能源增容 翻译问题】-资源缺失,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001420022,duanxiulin,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15850
+【jp_dev】【【黑潮日服1.92】【联盟】申请联盟后的文字超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001427295,zhuwenjie01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15851
+【jp_bug】春樱掉落显示bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001427299,guozicheng,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15855
+【jp_bug】修复经验转换文字超框,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001422466,wuyusheng,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15863
+【jp_bug】【暗蚀废墟】部队羁绊左右滑动时，右侧文本出框,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001428072,songyi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15873
+【jp_dev】【ID1700138】七日登陆ssr更换成翔鹤-前端开发】,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001700138,chencheng02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15878
+【jp_bug】【ID1425218】 【黑潮日服1.92】【后宅】制作装备界面的软引导层级错误,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001425218,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15884
+【jp_bug】个人信息绑定账号后红点不隐藏修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001427760,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15888
+【jp_bug】【ID1428860】【黑潮繁体线上】【账号里只有一个黄泉，但是可以在两个巡航列表上进行巡航】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001428860,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15891
+【jp_bug】热修方法修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001427760,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15900
+【jp_bug】【黑潮繁体2.0追念之井】【 结束第一个剧情战斗港口，界面卡死 】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001427101?jump_count=2,chenhuiling,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15896
+【ID1697800】斯诺普特派-斯诺普特派改成15选1,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001697800?url_cache_key=0&action_entry_type=story_tree_list,chenjianjun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15898
+【jp_bug】【大地图】战斗详情中，部队羁绊左右滑动出框,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001429322,songyi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15899
+【Jp_bug】【ID1429105】【能量增源的 界面图片丢失】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001429105,duanxiulin,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15902
+【jp1.92】马汉s/科罗拉多船坞内资源,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001426986,wangziqi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15903
+【jp_bug】【黑潮日服】【设备配置特别低时战斗中人偶放技能播放的动画帧数特别低时声音卡顿】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001429189?jump_count=2,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15904
+【jp_1.92】春樱活动任务页签分类读表，缺失资源补充,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001428345 https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001701714,guozicheng,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15907
+【jp_bug】【黑潮繁体2.0追念之井】【 结束第一个剧情战斗港口，界面卡死 】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001427101?jump_count=2,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15896
+【jp1.92】补充中途岛s船坞内资源,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001429380,wangziqi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15910
+【ID1420962】【黑潮日服1.92】【个人信息】个人信息修改头像中，部分头像空白显示,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001420962,dongding,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15913
+【jp_bug】【ID1429219】【黑潮日服1.92】【神秘巡航的标题显示重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001429219,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15914
+【jp_dev】资源检查jenkins任务流程优化,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001701567,luhua,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15919
+【jp_bug】【ID1429275】【成就手动领取后，一键领取按钮仍显示有未领取的成就，重新进入成就后变为灰显】】https://www.tapd.bilib…,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001429275,chencheng02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15921
+【jp_bug】好友界面inputfield修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001427790,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15924
+【jp_bug】【黑潮繁体2.0追念之井】【 结束第一个剧情战斗港口，界面卡死 】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001427101?jump_count=2,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15896
+【jp_bug】修复常驻商品显示商品已过期的问题,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001430016,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15931
+【jp_bug】删除音频warning信息,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001429839,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15932
+【jp_bug】船坞、人偶选择、回收启动优化,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001698595,niuzhe,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15934
+【jp_bug】个人信息界面透明度调整,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001426021,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15940
+【jp_bug】【【ID1430293】【七日登陆奖励第七天奖励三格】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001430293,chencheng02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15945
+【黑潮日服1.92】【阵列解析内进入解析返回后有特效残留】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001427481,wangcong02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15946
+"【jp_bug】修复热更新bug,无法更新uisprites下新增的地区文件夹问题",https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001429105,guozicheng,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15948
+【jp_bug】【ID1429834】【黑潮日服1.92】【对白文字没有显示完全 后面还有对白 对白框太短】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001429834,yuexiaokun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15949
+【jp_bug】人偶档案的按钮文本没有完整显示,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001430832,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15953
+【jp_bug】船坞、人偶选择、回收启动优化,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001698595,niuzhe,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15957
+【ID1708449】JPCB1.92_UI缺陷修复-将使用了中文字体的UI文本修改为日文字体（共17个，需求文档见附件）,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001708449,sunguili,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15958
+【jp_1.92】保底机制从动态改为50抽命中,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001722765?from=wxnotification&jump_count=2,niuzhe,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15961
+【jp_bug】修复日服战斗暂停界面文字超框,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001418130,wuyusheng,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15962
+【黑潮日服1.92】【阵列解析内进入解析返回后有特效残留】 2,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001427481,wangcong02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15983
+【jp_bug】【大地图】作战详情中部分人偶敌军信息弹框未完全显示,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001429836,songyi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15973
+【jp_bug】修复协程报错【黑潮日服1.92】【编辑器中报错】 && 【jp_bug】【黑潮日服】【船坞软引导断掉】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001430990,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15975
+【jp1.92】修复科罗拉多船坞内资源丢失,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001426986,wangziqi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15986
+【jp_bug】低配性能优化-战斗胜利有小幅度下降,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001698592,miaofengliang,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15987
+【jp_1.92】斯诺普特派修改,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001701595,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15992
+【jp_bug】【ID1430988】【演习右下角快速连点? 有时候会进入战斗后 弹出是否更换对手的选项】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001430988,chencheng02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15994
+【jp_bug】升级界面ui修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001422880,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/15996
+【jp_bug】【黑潮日服1.92】【成就界面页签相互切换，卡顿感很明显】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001431968,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16001
+【ID1700339】日本_cb包克利夫兰存普UP投放,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001700339?url_cache_key=0&action_entry_type=story_tree_list&code=Vbw1rqQ7_tHwCazyamYJZ_4wBib-a8JvtVxt3d7GPNk,chenjianjun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16003
+【jp_bug】修复【登录游戏之前的公告信息，文字超框】【获得人偶时，人偶对白不匹配】【人偶培养界面文本没有完全显示】【船坞内筛选任意品质人偶后查看人偶，返回后会显示全部人偶，但筛选项的品质依旧在选择】的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001430937,niuzhe,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16008
+【黑潮日服】【游戏启动界面文本未完全显示】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001430496,fengkerong,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16013
+【【黑潮简体20.】【仓库】仓库筛选的问题 这边验收是可以正确筛选的，但是滚轮在最下面的时候，点击筛选后会，滚轮会自动回到最上面】 &&【【黑潮日服】【新手教程立绘缺失】】,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001424757https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001431820,wangcong02,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16014
+【jp_bug】【利维坦深渊】深渊深度和地图显示不一致,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001431763,songyi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16018
+【ID1432141】【黑潮日服】【味蕾革命入口图片文字与活动界面图片文字不符 【ID1426115】【黑潮日服1.92】【斯诺普物资援助SSR人偶界面 】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view?bug_id=1130085404001432141,sunguili,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16024
+【jp_bug】取消船坞对象池引用,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001723207,niuzhe,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16025
+【ID1707302】虚海死局活动和卡池投放调整,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001739469,chenjianjun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16027
+【jp_bug】【利维坦深渊报错日志】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001432639,songyi01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16031
+[jp_bug]【黑潮简体20.】【仓库】仓库筛选的问题 这边验收是可以正确筛选的，但是滚轮在最下面的时候，点击筛选后会，滚轮会自动回到最上面,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001424757,lichenxi,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16038
+【jp_bug】修复【获得人偶时，人偶对白不匹配，对应CV显示错误】【运营反馈_概率说明里删除无用的空白】【人偶培养界面文本与道具图片重叠】【登录游戏之前的公告信息，文字超框】 的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001431777,niuzhe,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16039
+【ID1707302】虚海死局活动和卡池投放调整,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001707302?url_cache_key=0&action_entry_type=story_tree_list,chenjianjun,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16040
+"【jp_dev_bug】【【黑潮日服】【联盟任务中有任务名未完全显示】】,【【黑潮日服】【聊天界面切换频道后文本“システム”未完全显示】】,【【黑潮日服】【创建联盟文本…",https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001433991,zhuwenjie01?,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16043
+【jp_bug】升级界面修正,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001432127,fukang01,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16044
+【jp_bug】新手引导剧情句子缺失,https://www.tapd.bilibili.co/69221406/bugtrace/bugs/view/1169221406001432207?jump_count=2,chenhuiling,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16047
+【jp_bug】修复结算界面指挥官增长经验错误的问题,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001433861,wuyusheng,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16053
+【jp_dev】【【黑潮日服】【邮箱内“有効期限”未完全显示】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001430469,fanshuhua,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16058
+【jp_bug1.92】【所有的对话的文字部分缺失 】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001433568,fengkerong,jp_dev,已热更,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16062
+【jp_dev】【ID1424183】【航路破袭，故事介绍详情界面缺少“绍介”文本】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001424183,chencheng02,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16060
+【jp_bug】修复【公告信息内文字错位】的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001434664,niuzhe,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16065
+【jp_bug】修复结算界面溶液转换文本显示错误的问题,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001429155,wuyusheng,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16069
+【jp_dev】【利维坦深渊】自动打捞按钮置灰,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001431789,songyi01,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16074
+【jp_bug】修复战斗宣言/大招插屏动态立绘未受设置控制的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001433689,wuyusheng,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16075
+修复【【黑潮日服1.92.1】【深海化后展示界面人偶立绘缺失】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001434586,wangcong02,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16086
+【jp_dev_bug】【【黑潮日服】【聊天界面切换频道后文本“システム”未完全显示】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001432243,zhuwenjie01,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16087
+【jp_dev_bug】【【黑潮日服1.92.1】【联盟界面“初心者歓迎”未完全显示】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001434851,zhuwenjie01,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16089
+【JP_BUG】【演习右下角快速连点? 有时候会进入战斗后 弹出是否更换对手的选项】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001430988,fengkerong,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16091
+【jp_dev_bug】【【黑潮日服1.92.1】【反攻信息文本重叠】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001434953,zhuwenjie01,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16120
+【jp_bug】修复结算界面溶液转换文本显示错误的问题? 补充动画修改,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001429155,wuyusheng,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16122
+【jp_dev_bug】【【黑潮日服1.92】【斯诺普定向支援，抽卡保留按钮，括号样式几乎要出框了】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001435021,zhuwenjie01,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16123
+【jp_dev_bug】【【黑潮日服1.92.1】【船坞内文字重叠】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001434958,zhuwenjie01,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16127
+【ID1707302】虚海死局活动和卡池投放调整,https://www.tapd.bilibili.co/69221406/prong/stories/view/1169221406001707302,chenjianjun,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16128
+【jp_bug】【黑潮日服1.92.1】【商城补给箱购入界面有文字未翻译为日文】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001435540,chenhuiling,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16129
+【jp_bug】【ID1434916】【航线破袭】领取旁边的文本超框】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001434916,chencheng02,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16133
+修复【【黑潮日服】【文本提示没有显示完全 】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001431462,wangcong02,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16134
+【jp_bug】【ID1431952】【黑潮日服1.92】【巡航文字超框】+【ID1429219】【黑潮日服1.92】【神秘巡航的标题显示重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001429219,yuexiaokun,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16136
+【jp_bug】【ID1432233】【黑潮日服】【后宅访问界面文本未完全显示】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001432233,yuexiaokun,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16139
+【jp_bug】【ID1433666】【黑潮日服1.92.1】【装备制造优化文本“注文数1”重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001433666,yuexiaokun,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16143
+【jp_bug】【ID1434009】【黑潮日服1.92.1】【虚海死局“海”未改为日文】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001434009,yuexiaokun,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16147
+【jp_bug】【ID1434942】【黑潮日服1.92】【虚海死局 大地图缺少BANNER】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001434942,yuexiaokun,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16150
+【jp_bug】【ID1435068】【黑潮日服1.92】【偶现，账号首次登录，左上角个人中心会闪一下红点】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001435068,yuexiaokun,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16154
+【jp_bug】【ID1435318】【黑潮日服1.92】【虚海死局编队界面提示文字和相克关系图显示重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001435318,yuexiaokun,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16157
+修复【【黑潮日服】【船坞内部分人偶快速滑动后立绘消失】】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001432757,wangcong02,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16161
+修复【黑潮繁体黑海天柩】【1-7关卡，点自动打捞-选2次数-关闭次数，点返回据点，会介面卡死】,https://www.tapd.bilibili.co/51574239/bugtrace/bugs/view/1151574239001423507,wangcong02,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16165
+【ID1435860】 【黑潮日服1.92】【中途岛活动卡池页面，有遮盖到背景的马汉等人偶，确定是不是有问题】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001435860,chenjianjun,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16166
+【jp_1.92】【出鞘利剑卡池调整-前端开发】,https://www.tapd.bilibili.co/69221406/prong/tasks/view/1169221406001739469,niuzhe,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16171
+【jp_bug】【黑潮日服1.92.1】【商城补给箱购入界面有文字未翻译为日文】（漏提交部分）,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001435540,chenhuiling,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16177
+【jp_dev】修复【船坞内人偶到80级时文本重叠】 【人偶回收界面有文本超框】的bug,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001435778,niuzhe,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16181
+[jp1.92]中途岛人偶详情页面动画动起后腿部有部分显示异常修复,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001435764,wangziqi01,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16182
+【jp_bug】修复战斗校验出测试包时路径问题,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001436637,miaofengliang,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16183
+【jp_bug】黑石商店跳转支持配置,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001436141,fukang01,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16186
+【jp_bug】【ID1432019】【黑潮日服1.92】【虚海死局自动打捞按钮文字显示超框并与打捞按钮重叠】,https://www.tapd.bilibili.co/30085404/bugtrace/bugs/view/1130085404001432019,yuexiaokun,jp_dev,opened,http://ops-gitlab.biligame.com/darkboom/client/merge_requests/16187
