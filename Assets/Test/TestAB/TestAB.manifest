@@ -1,22 +1,25 @@
 ManifestFileVersion: 0
-CRC: 3700334064
+CRC: 3534388845
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: assets/test/ab/single/achievement.ab
+      Name: assets/test/ab/all.ab
       Dependencies: {}
     Info_1:
-      Name: assets/test/ab/single/activity.ab
+      Name: assets/test/ab/single/achievement.ab
       Dependencies: {}
     Info_2:
-      Name: assets/test/ab/single/activityboss.ab
+      Name: assets/test/ab/single/activity.ab
       Dependencies: {}
     Info_3:
-      Name: assets/test/ab/single/activitybossrank.ab
+      Name: assets/test/ab/single/activityboss.ab
       Dependencies: {}
     Info_4:
-      Name: assets/test/ab/single/activitylogin.ab
+      Name: assets/test/ab/single/activitybossrank.ab
       Dependencies: {}
     Info_5:
+      Name: assets/test/ab/single/activitylogin.ab
+      Dependencies: {}
+    Info_6:
       Name: assets/test/ab/single/version.ab
       Dependencies: {}
