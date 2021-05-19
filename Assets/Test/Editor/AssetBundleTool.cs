@@ -9,8 +9,7 @@ public class AssetBundleTool
     public static string outDir = Application.dataPath + "/Test/TestAB";
     public static Dictionary<string,string> assetDic = new Dictionary<string, string>
     {
-        {"/Test/ab/all","all"},
-        {"/Test/ab/single","single"},
+        {"/Image","single"},
     };
 
     public static Dictionary<string,List<string>> m_assetBundleDic = new Dictionary<string, List<string>>();
