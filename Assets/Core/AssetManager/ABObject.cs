@@ -12,7 +12,8 @@ namespace Core.Load
     public enum LoadStatus
     {
         Wait,
-        Loading,
+        LoadDepends,
+        LoadMain,
         Loaded,
         LoadError,
         WaitDelete,
@@ -20,13 +21,22 @@ namespace Core.Load
     }
     public class ABObject
     {
-        private string _path;
+        private string _abName;
         private LoadStatus _status;
         private int _refCount;
         private AssetBundle _ab;
         private AssetBundleCreateRequest _abCreateReq;
         private List<ABObject> _dependsList = new List<ABObject>();
         private List<Action<AssetBundle>> _callbackList = new List<Action<AssetBundle>>();
+        private bool _dependsIsDone = false;
+
+        public string abName
+        {
+            get
+            {
+                return _abName;
+            }
+        }
 
         public LoadStatus status
         {
@@ -41,11 +51,46 @@ namespace Core.Load
             }
         }
 
-        public ABObject(string path,Action<AssetBundle> callback)
+        public ABObject(string abName)
         {
-            _path = path;
-            _callbackList.Add(callback);
-            status = LoadStatus.Wait;
+            _abName = abName;
+            _refCount = 1;
+            InitDepends();
+            status = LoadStatus.Wait;           
+        }
+
+        public void AddCallback(Action<AssetBundle> callback)
+        {
+            if(callback != null)
+                _callbackList.Add(callback);
+        }
+
+        private void InitDepends()
+        {
+            string[] depends = AssetBundleLoadMgr.I.GetDepends(_abName);
+            for(int i = 0; i < depends.Length; i++)
+            {
+                ABObject obj = AssetBundleLoadMgr.I.GetABObject(depends[i]);
+                _dependsList.Add(obj);
+            }
+        }
+
+        public void AddRefCount()
+        {
+            _refCount++;
+            for(int i = 0; i < _dependsList.Count; i++)
+            {
+                _dependsList[i].AddRefCount();
+            }
+        }
+
+        public void SubRefCount()
+        {
+            _refCount--;
+            for(int i = 0; i < _dependsList.Count; i++)
+            {
+                _dependsList[i].SubRefCount();
+            }
         }
 
         public bool IsValid()
@@ -58,9 +103,12 @@ namespace Core.Load
             switch(_status)
             {
                 case LoadStatus.Wait:
-                    StartLoad();
                     break;
-                case LoadStatus.Loading:
+                case LoadStatus.LoadDepends:
+                    LoadDepends();
+                    break;
+                case LoadStatus.LoadMain:
+                    LoadMain();
                     break;
                 case LoadStatus.Loaded:
                     LoadSuccess();
@@ -69,25 +117,56 @@ namespace Core.Load
                     LoadFail();
                     break;
                 case LoadStatus.WaitDelete:
+                    UnLoad();
                     break;
             }
         }
 
         public void Update()
         {
-            if(status == LoadStatus.Loading)
+            if(status == LoadStatus.LoadDepends)
             {
-                UpdateLoading();
+                UpdateLoadDepends();
+            }
+            else if(status == LoadStatus.LoadMain)
+            {
+                UpdateLoadMain();
             }
         }
 
         private void StartLoad()
-        {
-            status = LoadStatus.Loading;
-            _abCreateReq = AssetBundle.LoadFromFileAsync(_path);
+        {       
+            status = LoadStatus.LoadDepends;
         }
 
-        private void UpdateLoading()
+        private void LoadDepends()
+        {
+            for(int i = 0; i < _dependsList.Count; i++)
+            {
+                _dependsList[i].StartLoad();
+            }
+        }
+
+        private void LoadMain()
+        {
+            string path = AssetBundleLoadMgr.I.GetTotalPath(_abName);
+            _abCreateReq = AssetBundle.LoadFromFileAsync(path);
+        }
+
+        private void UpdateLoadDepends()
+        {
+            _dependsIsDone = true;
+            for(int i = 0; i < _dependsList.Count; i++)
+            {
+                _dependsIsDone &= _dependsList[i].IsDone();
+            }
+            if(_dependsIsDone)
+            {
+                status = LoadStatus.LoadMain;
+            }
+        }
+
+        private void UpdateLoadMain()
         {
             if(_abCreateReq == null)
             {
@@ -108,6 +187,11 @@ namespace Core.Load
             }
         }
 
+        public bool IsDone()
+        {
+            return status == LoadStatus.Loaded;
+        }
+
         private void LoadSuccess()
         {
             for(int i = 0; i < _callbackList.Count; i++)
@@ -119,7 +203,23 @@ namespace Core.Load
 
         private void LoadFail()
         {
+            for(int i = 0; i < _callbackList.Count; i++)
+            {
+                _callbackList[i]?.Invoke(null);
+            }
+            _callbackList.Clear();
+        }
 
+        private void UnLoad()
+        {
+            _ab.Unload(true);
+            _ab = null;
+            _abName = string.Empty;
+            _abCreateReq = null;
+            _dependsList.Clear();
+            _callbackList.Clear();
+            _status = LoadStatus.Deleted;
+            _dependsIsDone = false;
         }
     }
 }
