@@ -9,16 +9,6 @@ using UnityEngine;
 
 namespace Core.Load 
 {
-    public enum LoadStatus
-    {
-        Wait,
-        LoadDepends,
-        LoadMain,
-        Loaded,
-        LoadError,
-        WaitDelete,
-        Deleted,
-    }
     public class ABObject
     {
         private string _abName;
@@ -67,10 +57,10 @@ namespace Core.Load
 
         private void InitDepends()
         {
-            string[] depends = AssetBundleLoadMgr.I.GetDepends(_abName);
+            string[] depends = AssetLoadMgr.I.GetDepends(_abName);
             for(int i = 0; i < depends.Length; i++)
             {
-                ABObject obj = AssetBundleLoadMgr.I.GetABObject(depends[i]);
+                ABObject obj = AssetLoadMgr.I.GetABObject(depends[i]);
                 _dependsList.Add(obj);
             }
         }
@@ -149,7 +139,7 @@ namespace Core.Load
 
         private void LoadMain()
         {
-            string path = AssetBundleLoadMgr.I.GetTotalPath(_abName);
+            string path = AssetLoadMgr.I.GetTotalPath(_abName);
             _abCreateReq = AssetBundle.LoadFromFileAsync(path);
         }
 
