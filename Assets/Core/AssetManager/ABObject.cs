@@ -124,9 +124,10 @@ namespace Core.Load
             }
         }
 
-        private void StartLoad()
+        public void StartLoad()
         {       
-            status = LoadStatus.LoadDepends;
+            if(status < LoadStatus.LoadDepends)
+                status = LoadStatus.LoadDepends;
         }
 
         private void LoadDepends()

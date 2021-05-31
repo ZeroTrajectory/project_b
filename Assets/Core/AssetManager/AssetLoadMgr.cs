@@ -107,6 +107,13 @@ namespace Core.Load
             return null;
         }
 
+        public string GetABNameByAssetName(string assetName)
+        {
+            //TODO
+            string abName = assetName.ToLower();
+            return abName;
+        }
+
         public string GetTotalPath(string abName)
         {
             //TODO
