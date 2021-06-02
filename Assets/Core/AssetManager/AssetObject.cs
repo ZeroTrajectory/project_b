@@ -45,6 +45,20 @@ namespace Core.Load
         {
             string abName = AssetLoadMgr.I.GetABNameByAssetName(_assetName);
             _abObject = AssetLoadMgr.I.GetABObject(abName);
+            _abObject.AddCallback(LoadABDone);
+        }
+
+        public void AddRefCount()
+        {
+            if(_abObject != null)
+            {
+                _abObject.AddRefCount();
+            }
+        }
+
+        public void SubRefCount()
+        {
+
         }
 
         private void SwitchStatus()

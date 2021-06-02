@@ -44,7 +44,7 @@ namespace Core.Load
         public ABObject(string abName)
         {
             _abName = abName;
-            _refCount = 1;
+            _refCount = 0;
             InitDepends();
             status = LoadStatus.Wait;           
         }
@@ -53,6 +53,7 @@ namespace Core.Load
         {
             if(callback != null)
                 _callbackList.Add(callback);
+            AddRefCount();
         }
 
         private void InitDepends()
@@ -203,7 +204,8 @@ namespace Core.Load
 
         private void UnLoad()
         {
-            _ab.Unload(true);
+            if(_ab != null)
+                _ab.Unload(true);
             _ab = null;
             _abName = string.Empty;
             _abCreateReq = null;
