@@ -17,6 +17,8 @@ namespace Core.Load
         private int _refCount;
         private ABObject _abObject;
         private List<Action<object>> _callbackList;
+        private AssetBundleRequest _abReq;
+        private object _asset;
         
 
         public LoadStatus status
@@ -57,8 +59,10 @@ namespace Core.Load
                 case LoadStatus.LoadAsset:
                     break;
                 case LoadStatus.Loaded:
+                    LoadSuccess();
                     break;
                 case LoadStatus.LoadError:
+                    LoadFail();
                     break;
                 case LoadStatus.WaitDelete:
                     break;              
@@ -99,7 +103,52 @@ namespace Core.Load
 
         private void UpdateLoadAsset()
         {
+            if(_abReq == null)
+            {
+                status = LoadStatus.LoadError;
+                return;
+            }
+            if(_abReq.isDone)
+            {
+                _asset = _abReq.asset;
+                if(_asset == null)
+                {
+                    status = LoadStatus.LoadError;
+                }
+                else
+                {
+                    status = LoadStatus.Loaded;
+                }
+            }
+        }
 
+        private void LoadABDone(AssetBundle ab)
+        {
+            if(ab == null)
+            {
+                status = LoadStatus.LoadError;
+                return;
+            }
+            _abReq = ab.LoadAssetAsync(_assetName);
+            status = LoadStatus.LoadAsset;
+        }
+
+        private void LoadSuccess()
+        {
+            for(int i = 0; i < _callbackList.Count; i++)
+            {
+                _callbackList[i]?.Invoke(_asset);
+            }
+            _callbackList.Clear();
+        }
+
+        private void LoadFail()
+        {
+            for(int i = 0; i < _callbackList.Count; i++)
+            {
+                _callbackList[i]?.Invoke(null);
+            }
+            _callbackList.Clear();
         }
     }
 

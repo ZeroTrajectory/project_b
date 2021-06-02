@@ -180,7 +180,7 @@ namespace Core.Load
 
         public bool IsDone()
         {
-            return status == LoadStatus.Loaded;
+            return status == LoadStatus.Loaded || status == LoadStatus.LoadError;
         }
 
         private void LoadSuccess()

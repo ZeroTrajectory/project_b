@@ -5,6 +5,7 @@ AssetLoadMgr是资源加载卸载的唯一对外接口，传入加载的相对�
 
 ##需要测试的东西
 1.prefab上的image，如果被destroy了，对应的sprite是否还在内存中，如果在，是否能gc掉
+2.如果ab的某个依赖没有加载成功，加载mainAB的时候会报什么错
 */
 using System.Collections;
 using System.Collections.Generic;
